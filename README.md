@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Nikko and I'm a 20 yrs old from BSIT-2 SPUS</h3>
+<h3 align="left">Fear for my Sharingan is Here</h3>
 
 ###
 
